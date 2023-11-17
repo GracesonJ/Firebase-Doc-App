@@ -1,11 +1,12 @@
 import './App.css';
+import Docs from './Components/Docs';
 
 function App() {
   return (
     <>
-      <h1>Document App</h1>
+      <Docs/>
     </>
   );
 }
 
-export default App;
+export default App
